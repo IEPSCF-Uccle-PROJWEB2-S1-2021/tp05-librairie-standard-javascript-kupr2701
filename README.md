@@ -72,7 +72,7 @@ _Exemple de températures. Ici, -1 est la température la plus proche de 0._
 
 ### Règles
 
-Écrivez une fonction qui retourne la température la plus proche de 0 parmi les données d'entrée.
+<Écrivez une fonction qui retourne la température la plus proche de 0 parmi les données d'entrée.
 Si deux nombres sont aussi proches de zéro, alors l'entier positif sera considéré comme étant le plus proche de zéro
 (par exemple, si les températures sont -5 et 5, alors retourner 5).
 
